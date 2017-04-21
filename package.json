@@ -1,0 +1,29 @@
+{
+  "name": "Eta",
+  "version": "1.0.0",
+  "description": "21TO31 - show what you can do!",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-modules-require-hook": "^4.0.5",
+    "immutability-helper": "^2.0.0",
+    "material-ui": "^0.16.4",
+    "node-sass": "^3.13.0",
+    "react": "^15.3.2",
+    "react-addons-css-transition-group": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-bootstrap-toggle": "^1.2.19",
+    "react-dom": "^15.3.2",
+    "react-router": "^3.0.0",
+    "react-router-bootstrap": "^0.23.1",
+    "react-toolbox": "^1.2.5",
+    "style-loader": "^0.13.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.0"
+  }
+}
