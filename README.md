@@ -7,8 +7,8 @@ Every single page contains slightly different components - my goals was to try u
 [Check out the demo pictures here.](https://github.com/jan-ondruch/personal-portfolio-react/tree/master/screenshots)
 
 ### To run the project locally:
-npm install (installing all packages and dependencies)
-npm start (staring the localhost server)
+`npm install` (installing all packages and dependencies)<br>
+`npm start` (staring the localhost server)
 
 ## Project Status:
 Finished for technology demonstation purposes.<br>
