@@ -10,16 +10,16 @@ Every single page contains slightly different components - my goals was to try u
 npm install (installing all packages and dependencies)
 npm start (staring the localhost server)
 
-### Status:
+## Project Status:
 Finished for technology demonstation purposes.<br>
 Website is finished ~80% from having it fully deployable.
 
-## What'd need to be done to make it fully functional:
+### What'd need to be done to make it fully functional:
 Refine content - text, images, colors.<br>
 Refine responsive design - mobile devices might not have the most optimal UX.<br>
 Add missing real links.
 
-### What I learned:
+## What I learned:
 Building a website from scratch using NodeJS (npm, webpack), ReactJS (react-bootstrap, react-router) and Material Design (material-ui).<br>
 Basic understanding of the latter technologies and tools.<br>
 Better usage of Sublime Text editor.<br>
